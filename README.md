@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ```math
-$$\mmlToken{ms}[fontfamily="goombafont;pointer-events: none; z-index: 99990; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; background-repeat: no-repeat; background-position: center; width: 130vw; background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKoWlTyws8Bhi81PwOv6j0sw5qLMeWH_A2fQ&s');"]{}$$
+$$\mmlToken{ms}[fontfamily="goombafont;pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; background-repeat: no-repeat; background-position: center; width: 130vw; background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKoWlTyws8Bhi81PwOv6j0sw5qLMeWH_A2fQ&s');"]{}$$
 ```
 
 <!--
